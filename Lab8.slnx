@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../DZlab8/DZlab8.vcxproj" />
+  <Project Path="Lab8.vcxproj" />
+</Solution>
